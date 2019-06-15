@@ -11,6 +11,9 @@ species of plankton.Training a neural network for this purpose is a challenging 
 application. We are looking forward to diving into this project and discovering its effectiveness
 in a real application.
 
+
+### Instructions on how to run the code
+
 Please the run the jupyter notebook file in dataset folder.
    - data_preprocess.ipynb: The data preprocess file for organize the dataset
    - data_augmentation.ipynb: The file to perform data augmentation
