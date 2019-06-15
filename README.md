@@ -10,3 +10,17 @@ outstanding accuracy on image classification. We want to utilize these models to
 species of plankton.Training a neural network for this purpose is a challenging and interesting
 application. We are looking forward to diving into this project and discovering its effectiveness
 in a real application.
+
+Please the run the jupyter notebook file in dataset folder.
+   - data_preprocess.ipynb: The data preprocess file for organize the dataset
+   - data_augmentation.ipynb: The file to perform data augmentation
+   
+For ResNet Model please refer to ResNet_Model folder.
+   - plankton_dataloader.py: Dataloader used for the Pytorch model.
+   - transfer_resnet.ipynb: For training the ResNet Model and storing the checkpoints, loss and accuracy
+   - test_resnet.ipynb: For testing the model obtained from Training and perform evaluations.
+   
+For DenseNet Model please refer to DenseNet_Model folder.
+   - plankton_dataloader.py: Dataloader used for the Pytorch model.
+   - transfer_densenet.ipynb: For training the DenseNet Model and storing the checkpoints, loss and accuracy
+   - test_densenet.ipynb: For testing the model obtained from Training and perform evaluations.
