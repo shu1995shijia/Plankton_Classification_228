@@ -14,6 +14,8 @@ in a real application.
 
 ### Instructions on how to run the code
 
+zip_unzip_file.ipynb: Helper file to unzip and zip the compressed file like dataset.
+
 Please the run the jupyter notebook file in dataset folder.
    - data_preprocess.ipynb: The data preprocess file for organize the dataset
    - data_augmentation.ipynb: The file to perform data augmentation
